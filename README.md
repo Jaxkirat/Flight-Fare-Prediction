@@ -15,6 +15,7 @@ It takes the following inputs from the user:
 3. Destination of Flight 
 4. Number of Stops 
 5. Class of Travel (Economy, Business, First-Class)
+6. Airline Name
 
 ![flight prediction ](https://github.com/Jaxkirat/Flight-Fare-Prediction/assets/77850299/efd649a2-d952-4008-8782-c1a3e7f434e7)
 
